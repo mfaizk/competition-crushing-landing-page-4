@@ -9,7 +9,7 @@
  
 # What I learn- 
  
- > When i am making this website I learn about how span works and how we can beautify our text using span on the go
+ > When i am making this website I learn about how span works and how we can beautify our text using span on the go, also i use various flex properties here like justify-content, align-item and flex-direction
  
  
  
